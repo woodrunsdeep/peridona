@@ -1,2 +1,3 @@
 #don't track this items
 *.psd
+node_modules
